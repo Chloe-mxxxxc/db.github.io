@@ -7,7 +7,7 @@ The Dongba script is a unique hieroglyphic writing system primarily utilized by 
 ![](/docs/1.png)
 
 <p align="center">
-  <img width="460" height="300" src="/docs/1.png">
+  <img src="/docs/1.png">
 </p>
 
 *Ancient Dongba Buddhist Scripture: A Pictographic Heritage of the Naxi People (Captured by WB Hu, January 11, 2022, in Lijiang, Yunnan, China.)*
