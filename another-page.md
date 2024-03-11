@@ -6,7 +6,11 @@ description: This dataset provides the Chinese definitions of individual Dongba 
 
 ## Introduction
 
-Based on "A Dictionary of Dongba Pictographs and Phonetic Scripts," we have created a dataset of individual Dongba characters, offering Dongba-to-Chinese translations. This effort aims to provide the most straightforward and clear digital outcomes, facilitating future research. Our studies have found that Dongba symbols vary among different Naxi communities; the over 2,000 characters summarized in "A Dictionary of Dongba Pictographs and Phonetic Scripts" represent just a fraction of the spectrum. We plan to expand upon this data, offering a more extensive and comprehensive digital dictionary of Dongba characters in the future.
+Based on "A Dictionary of Dongba Pictographs and Phonetic Scripts," we have created a dataset of individual Dongba characters, offering Dongba-to-Chinese translations. 
+
+This effort aims to provide the most straightforward and clear digital outcomes, facilitating future research. Our studies have found that Dongba symbols vary among different Naxi communities; the over 2,000 characters summarized in "A Dictionary of Dongba Pictographs and Phonetic Scripts" represent just a fraction of the spectrum. 
+
+We plan to expand upon this data, offering a more extensive and comprehensive digital dictionary of Dongba characters in the future.
 
 ![](/docs/2.png)
 
