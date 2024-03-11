@@ -22,11 +22,11 @@ Table 1 presents the detailed specifics of the dataset.
 | Train            | White canvas      | Natural scene |
 |:-----------------|:------------------|:--------------|
 | Number of Images | 20,000            | 20,000        |
-|:-----------------|:------------------|:--------------|
+
 | Val              | White canvas      | Natural scene |
 |:-----------------|:------------------|:--------------|
 | Number of Images | 20,00             | 20,00         |
-|:-----------------|:------------------|:--------------|
+
 | Test             | White canvas      | Natural scene |
 |:-----------------|:------------------|:--------------|
 | Number of Images | 20,00             | 20,00         |
