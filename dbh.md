@@ -13,7 +13,7 @@ Consequently, we introduce this aspect in this section. The current methodology,
 
 Constrained by resources, researchers manually decipher new symbols, carefully record their observations, and then systematically catalog these symbols. 
 
-Figure 1 exemplifies the arduous process a scholar undergoes when documenting insights from Dongba manuscripts ('Dongba Hieroglyphics', one of the ancient hieroglyphic scripts affiliated with China, was invented by the ancestors of the Naxi minority in China).  
+Figure 1 exemplifies the arduous process a scholar undergoes when documenting insights from Dongba manuscripts ( 'Dongba Hieroglyphics', one of the ancient hieroglyphic scripts affiliated with China, was invented by the ancestors of the Naxi minority in China ).  
 
 While comprehensive, this approach is prone to inefficiencies, potential misinterpretations, and inaccuracies due to human factors. 
 
