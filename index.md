@@ -16,7 +16,7 @@ The primary mediums for Dongba writings are paper and wooden boards, though clot
 
 The pictographic nature of the Dongba script vividly captures the daily life and natural surroundings of the Naxi people, featuring an extensive collection of symbols representing flora and fauna, natural phenomena, and various human activities.
 
-
+* * *
 This project commenced with the Dongba characters documented in "A Dictionary of Dongba Pictographs and Phonetic Scripts  《麼些象形標音文字字典》", ISBN13：9789575476854, published by Li Lincan in 1973. This dictionary encapsulates a total of 2,122 Dongba symbols. Based on this comprehensive work, we have standardized all characters according to Chinese conventions. You can download our annotated dataset of Dongba characters at [Datasets](./another-page.html).
 
 
