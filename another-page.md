@@ -14,7 +14,7 @@ We plan to expand upon this data, offering a more extensive and comprehensive di
 
 ![](/docs/2.png)
 
-*Some single-character Dongba-Chinese annotated illustrations*
+*Fig 1. Some single-character Dongba-Chinese annotated illustrations*
 
 You can download our annotated dataset of Dongba characters at [Datasets](https://docs.google.com/spreadsheets/d/1jsZmiZgMko_X1koWNkmm6iQGsmwfDlj0/edit?usp=sharing&ouid=104189196196125927148&rtpof=true&sd=true).
 
