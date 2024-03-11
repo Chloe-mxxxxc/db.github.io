@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Dongba Script
-
 The Dongba script is a unique hieroglyphic writing system primarily utilized by the Naxi people in the northwestern region of Yunnan Province, China. It stands out as one of the few hieroglyphic scripts still in use globally. 
 
 > Originating from the Dongba religion—a venerable belief system of the Naxi—the script is employed by its followers, known as "Dongba."
@@ -19,10 +17,15 @@ The primary mediums for Dongba writings are paper and wooden boards, though clot
 The pictographic nature of the Dongba script vividly captures the daily life and natural surroundings of the Naxi people, featuring an extensive collection of symbols representing flora and fauna, natural phenomena, and various human activities.
 
 * * *
+## Dataset
+### Dongba Single Character Dataset
 This project commenced with the Dongba characters documented in "A Dictionary of Dongba Pictographs and Phonetic Scripts  《麼些象形標音文字字典》", ISBN13：9789575476854, published by Li Lincan in 1973. This dictionary encapsulates a total of 2,122 Dongba symbols. Based on this comprehensive work, we have standardized all characters according to Chinese conventions. 
 
 More details about our annotated Dongba character data [Datasets](./another-page.html).
+* * *
 
+### Dongba Natural Scene Synthetic Dataset
+To expand the application scenarios of the Dongba Single Character Dataset, we have synthesized 40,000 images to serve as a training set. The synthesized data relies on the Dongba Single Character Dataset and the COCO dataset, with each image randomly including 1-10 Dongba characters. For more details, please refer to [link].
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
