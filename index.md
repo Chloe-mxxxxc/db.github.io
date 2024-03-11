@@ -5,7 +5,7 @@ layout: default
 The Dongba script is a unique hieroglyphic writing system primarily utilized by the Naxi people in the northwestern region of Yunnan Province, China. It stands out as one of the few hieroglyphic scripts still in use globally. Originating from the Dongba religion—a venerable belief system of the Naxi—the script is employed by its followers, known as "Dongba." These individuals serve dual roles as priests and traditional healers, with responsibilities that include documenting history, disseminating religious knowledge, and performing medical practices.
 
 <div align="center">
-  <img src="https://guides.github.com/activities/hello-world/branching.png" alt="Branching">
+  <img src="https://github.com/infinite-hwb/db.github.io/blob/master/docs/1.png" alt="Branching">
   <p>Ancient Dongba Buddhist Scripture: A Pictographic Heritage of the Naxi People (Captured by WB Hu, January 11, 2022, in Lijiang, Yunnan, China.)</p>
 </div>
 
