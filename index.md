@@ -21,11 +21,13 @@ The pictographic nature of the Dongba script vividly captures the daily life and
 ### Dongba Single Character Dataset
 This project commenced with the Dongba characters documented in "A Dictionary of Dongba Pictographs and Phonetic Scripts  《麼些象形標音文字字典》", ISBN13：9789575476854, published by Li Lincan in 1973. This dictionary encapsulates a total of 2,122 Dongba symbols. Based on this comprehensive work, we have standardized all characters according to Chinese conventions. 
 
-More details about our annotated Dongba character data [Datasets](./another-page.html).
-* * *
+More details about our annotated Dongba character data [Link](./another-page.html).
 
 ### Dongba Natural Scene Synthetic Dataset
-To expand the application scenarios of the Dongba Single Character Dataset, we have synthesized 40,000 images to serve as a training set. The synthesized data relies on the Dongba Single Character Dataset and the COCO dataset, with each image randomly including 1-10 Dongba characters. For more details, please refer to [Datasets](./db).
+To expand the application scenarios of the Dongba Single Character Dataset, we have synthesized 40,000 images to serve as a training set. The synthesized data relies on the Dongba Single Character Dataset and the COCO dataset, with each image randomly including 1-10 Dongba characters. For more details, please refer to [Link](./db).
+
+### Dongba Hieroglyphics Dataset
+Dongba Hieroglyphics Dataset (DBH) is a new dataset featuring Dongba characters, an ancient script created by the Naxi minority's ancestors in China. These pictographs hold historical and literary value and have been recognized as "Memory of the World" by UNESCO. As the total number of distinct Dongba characters is unknown, text spotting in manuscripts is an open-set problem, where spotting novel characters helps decipher historical texts. We collected data from Dongba sutras, annotating and summarizing it into a dataset of 3633 bounding boxes across 253 categories. To accommodate one-shot tasks, experts hand-wrote an additional 253 characters, using them as support images. For more details, please refer to [Link](./dbh).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
