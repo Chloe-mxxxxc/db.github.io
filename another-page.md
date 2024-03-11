@@ -17,7 +17,7 @@ You can download our annotated dataset of Dongba characters at [Datasets](https:
 Please note, before viewing the document, install the font first at [link](https://drive.google.com/file/d/1R4Ou-GLt3-dEhOl1mSsD_8qcEHXqAPpo/view?usp=sharing).
 
 Reference link:
-1. Dongba Glyphs with a Semantic Index    
+1. Dongba Glyphs with a Semantic Index
    [Link](https://duoduo-lab.github.io/)
 2. Dongba symbols, Wikipedia
    [Link](https://en.wikipedia.org/wiki/Dongba_symbols)
