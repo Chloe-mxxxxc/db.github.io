@@ -6,6 +6,10 @@ The Dongba script is a unique hieroglyphic writing system primarily utilized by 
 
 ![](/docs/1.png)
 
+<p align="center">
+  <img width="460" height="300" src="/docs/1.png">
+</p>
+
 *Ancient Dongba Buddhist Scripture: A Pictographic Heritage of the Naxi People (Captured by WB Hu, January 11, 2022, in Lijiang, Yunnan, China.)*
 
 The primary mediums for Dongba writings are paper and wooden boards, though cloth and leather are also occasionally used. This script extends beyond merely recording religious ceremonial texts; it encompasses a broad array of fields such as traditional medicine, history, literature, and astronomy. The pictographic nature of the Dongba script vividly captures the daily life and natural surroundings of the Naxi people, featuring an extensive collection of symbols representing flora and fauna, natural phenomena, and various human activities.
