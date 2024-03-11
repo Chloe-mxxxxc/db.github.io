@@ -25,7 +25,7 @@ More details about our annotated Dongba character data [Datasets](./another-page
 * * *
 
 ### Dongba Natural Scene Synthetic Dataset
-To expand the application scenarios of the Dongba Single Character Dataset, we have synthesized 40,000 images to serve as a training set. The synthesized data relies on the Dongba Single Character Dataset and the COCO dataset, with each image randomly including 1-10 Dongba characters. For more details, please refer to [link].
+To expand the application scenarios of the Dongba Single Character Dataset, we have synthesized 40,000 images to serve as a training set. The synthesized data relies on the Dongba Single Character Dataset and the COCO dataset, with each image randomly including 1-10 Dongba characters. For more details, please refer to [Datasets](./db).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
