@@ -25,6 +25,23 @@ To expand the application scenarios of the Dongba Single Character Dataset, we h
 ### Dongba Hieroglyphics Dataset
 Dongba Hieroglyphics Dataset (DBH) is a new dataset featuring Dongba characters, an ancient script created by the Naxi minority's ancestors in China. These pictographs hold historical and literary value and have been recognized as "Memory of the World" by UNESCO. As the total number of distinct Dongba characters is unknown, text spotting in manuscripts is an open-set problem, where spotting novel characters helps decipher historical texts. We collected data from Dongba sutras, annotating and summarizing it into a dataset of 3633 bounding boxes across 253 categories. To accommodate one-shot tasks, experts hand-wrote an additional 253 characters, using them as support images. For more details, please refer to [Link](./dbh).
 
+Reference link:
+1. Dongba Glyphs with a Semantic Index
+   [Link](https://duoduo-lab.github.io/)
+2. Dongba symbols, Wikipedia
+   [Link](https://en.wikipedia.org/wiki/Dongba_symbols)
+3. Naxi Dongba, Scriptsource
+   [Link](https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Nkdb)
+4. Naxi Dongba script, Omniglot
+   [Link](https://omniglot.com/writing/naxi.htm)
+5. Naxi Dongba PUA Fonts
+   [Link](https://www.babelstone.co.uk/Fonts/Naxi.html)
+6. Naxi Manuscript Collection in The Library of Congress
+   [Link](https://www.loc.gov/collections/naxi-manuscripts/about-this-collection)
+7. Dongba Culture
+   [Link](http://www.dongba-culture.com/)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
