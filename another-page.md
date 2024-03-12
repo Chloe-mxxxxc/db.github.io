@@ -19,4 +19,5 @@ We plan to expand upon this data, offering a more extensive and comprehensive di
 You can download our annotated dataset of Dongba characters at [Datasets](https://docs.google.com/spreadsheets/d/1jsZmiZgMko_X1koWNkmm6iQGsmwfDlj0/edit?usp=sharing&ouid=104189196196125927148&rtpof=true&sd=true).
 
 Please note, before viewing the document, install the font first at [link](https://drive.google.com/file/d/1R4Ou-GLt3-dEhOl1mSsD_8qcEHXqAPpo/view?usp=sharing).
+
 [back](./)
