@@ -39,6 +39,7 @@ For more details, please refer to [Link]([./dbh](https://github.com/infinite-hwb
 ### Dongba Buddhist Manuscript Recognition and Translation System
 The aim of this system is to achieve end-to-end translation from images of Dongba Buddhist manuscripts to Chinese results. Due to the scarcity of data on Dongba Buddhist manuscript images, we utilize One-shot Learning-based Text Spotting [Link](https://github.com/infinite-hwb/ots) for the recognition phase, and low-resource machine translation techniques for the translation phase. Examples specific to Dongba Buddhist manuscript images are provided at [link](http://118.31.111.194:5999/dongba).
 
+* * *
 Reference link:
 1. Dongba Glyphs with a Semantic Index
    [Link](https://duoduo-lab.github.io/)
