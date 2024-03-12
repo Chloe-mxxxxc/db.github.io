@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dongba Natural Scene Synthetic Dataset
-description: This dataset provides synthetic images of Dongba in natural scenes.
+title: Dongba Hieroglyphics Dataset
+description: This dataset provides historical Dongba manuscript data, collected from the Naxi Yuan Ke Dongba Ancient Books Translation and Annotation, ISBN 978-7-5367-8040-8.
 ---
 
 ## Introduction
