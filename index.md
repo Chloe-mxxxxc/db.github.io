@@ -19,6 +19,10 @@ The pictographic nature of the Dongba script vividly captures the daily life and
 ### Dongba Single Character Dataset
 This project commenced with the Dongba characters documented in "A Dictionary of Dongba Pictographs and Phonetic Scripts  《麼些象形標音文字字典》", ISBN13：9789575476854, published by Li Lincan in 1973. This dictionary encapsulates a total of 2,122 Dongba symbols. Based on this comprehensive work, we have standardized all characters according to Chinese conventions. 
 
+![](/docs/10.png)
+
+*A Dictionary of Dongba Pictographs and Phonetic Scripts, and Selected Content from the Book*
+
 More details about our annotated Dongba character data [Link](./another-page.html).
 
 ### Dongba Natural Scene Synthetic Dataset
