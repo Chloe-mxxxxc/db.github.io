@@ -31,6 +31,7 @@ Dongba Hieroglyphics Dataset (DBH) is a new dataset featuring Dongba characters,
 ## Project
 ### One-shot Learning-based Text Spotting
 Our research introduces a novel approach to historical manuscript processing, specifically addressing the challenges of limited data and the emergence of novel classes. We present a One-shot learning-based Text Spotting (OTS) technique that efficiently recognizes new characters from minimal support samples. Inspired by cognitive studies, we incorporate a spatial alignment module to identify and learn from key spatial features in images, aided by a unique support image. To counter the imbalance issue common in low-resource text spotting, we've devised a new torus loss function, enhancing the discriminative power of our metric's embedding space. This method is not only efficient, requiring few training samples but also excels at spotting novel characters and symbols, showcasing its potential for broad applications in manuscript analysis.
+
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/readme.png" width="633" >
 
 For more details, please refer to [Link]([./dbh](https://github.com/infinite-hwb/ots)).
