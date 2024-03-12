@@ -27,6 +27,17 @@ To expand the application scenarios of the Dongba Single Character Dataset, we h
 ### Dongba Hieroglyphics Dataset
 Dongba Hieroglyphics Dataset (DBH) is a new dataset featuring Dongba characters, an ancient script created by the Naxi minority's ancestors in China. These pictographs hold historical and literary value and have been recognized as "Memory of the World" by UNESCO. As the total number of distinct Dongba characters is unknown, text spotting in manuscripts is an open-set problem, where spotting novel characters helps decipher historical texts. We collected data from Dongba sutras, annotating and summarizing it into a dataset of 3633 bounding boxes across 253 categories. To accommodate one-shot tasks, experts hand-wrote an additional 253 characters, using them as support images. For more details, please refer to [Link](./dbh).
 
+* * *
+## Project
+### One-shot Learning-based Text Spotting
+Our research introduces a novel approach to historical manuscript processing, specifically addressing the challenges of limited data and the emergence of novel classes. We present a One-shot learning-based Text Spotting (OTS) technique that efficiently recognizes new characters from minimal support samples. Inspired by cognitive studies, we incorporate a spatial alignment module to identify and learn from key spatial features in images, aided by a unique support image. To counter the imbalance issue common in low-resource text spotting, we've devised a new torus loss function, enhancing the discriminative power of our metric's embedding space. This method is not only efficient, requiring few training samples but also excels at spotting novel characters and symbols, showcasing its potential for broad applications in manuscript analysis.
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/readme.png" width="633" >
+
+For more details, please refer to [Link]([./dbh](https://github.com/infinite-hwb/ots)).
+
+### Dongba Buddhist Manuscript Recognition and Translation System
+The aim of this system is to achieve end-to-end translation from images of Dongba Buddhist manuscripts to Chinese results. Due to the scarcity of data on Dongba Buddhist manuscript images, we utilize One-shot Learning-based Text Spotting [Link](https://github.com/infinite-hwb/ots) for the recognition phase, and low-resource machine translation techniques for the translation phase. Examples specific to Dongba Buddhist manuscript images are provided at [link](http://118.31.111.194:5999/dongba).
+
 Reference link:
 1. Dongba Glyphs with a Semantic Index
    [Link](https://duoduo-lab.github.io/)
